@@ -1,0 +1,4 @@
+*.pyc
+*.olean
+/_target
+/output
